@@ -6,7 +6,7 @@ public class hello {
         System.out.println("Hello little sunshine!");
 
 
-        System.out.println("second hand");
+        System.out.println("second hand");  // github master
 
     }
 
